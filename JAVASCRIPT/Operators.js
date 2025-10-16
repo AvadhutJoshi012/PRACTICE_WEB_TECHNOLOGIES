@@ -40,3 +40,6 @@ console.log("g=",g," h=",h);
 console.log(g==h&&g===20);
 console.log(g==h||g!=h);
 console.log(!(g!=h));
+console.log("TERNARY OPERATOR");
+let age=17;
+console.log(age>=18?"VOTE":"CANNOT VOTE");
