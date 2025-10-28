@@ -1,0 +1,13 @@
+.para{
+    border: 2px solid red;
+    height: 100px;
+    width: 50%;
+    background-color: blanchedalmond;
+    text-align: center;
+    align-content: center;
+}
+
+.newClass{
+    border-radius: 20px;
+    box-shadow: 50px;
+}
