@@ -1,0 +1,10 @@
+button{
+  color: red;
+  background-color: azure;
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  box-shadow: 0 0 10px;
+}
