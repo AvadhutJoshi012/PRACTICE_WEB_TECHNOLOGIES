@@ -7,6 +7,7 @@ import InputExample from './pages/InputExample'
 import ToggleText from './pages/ToggleText'
 import InputEvent from './pages/InputEvent'
 import FormExample from './pages/FormExample'
+import GreetParameter from './pages/GreetParameter'
 
 function App() {
 
@@ -27,6 +28,8 @@ function App() {
         <InputEvent/>
         <hr />
         <FormExample/>
+        <hr />
+        <GreetParameter/>
     </>
   )
 }
